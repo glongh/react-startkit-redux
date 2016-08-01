@@ -1,0 +1,10 @@
+{
+  "name":"reactjs-startkit-redux",
+  "scripts":{},
+  "env":{
+    "NPM_CONFIG_PRODUCTION" : {
+      "value":"false"
+    }
+  },
+  "addons":[]
+}
